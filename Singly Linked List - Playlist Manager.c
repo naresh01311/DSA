@@ -46,7 +46,7 @@ int main() {
 	char songname[100];
 
 	while (1) {
-		printf("\n--- Playlist Menu ---\n");
+		printf("\nPlaylist Menu \n");
 		printf("1. Add a Song\n");
 		printf("2. Display Playlist\n");
 		printf("3. Exit\n");
